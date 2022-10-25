@@ -1,6 +1,6 @@
 # Program to check if a number is prime or not
 
-num = 26
+num = 24
 
 # To take input from the user
 #num = int(input("Enter a number: "))
